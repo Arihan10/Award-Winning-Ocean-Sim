@@ -1,4 +1,4 @@
-Winner of the WorldVision Game Development Contest!
+# Winner of the WorldVision Game Development Contest!
 
 Ocean simulated on GPU with physics interactions computed on CPU via mesh in Compute Buffers.
 
